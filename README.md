@@ -3,7 +3,7 @@ A challenged based, hands-on hack to migrate MySQL, MariaDB and PostgreSQL datab
 
 # Challenges
 
-- *[*Challenge 0**](./Student/Guides/challenge00.md) - Setup
+- [**Challenge 0**](./Student/Guides/challenge00.md) - Setup
 
   - Provisioning the IaaS Database Instance (MySQL, MariaDB, PostgreSQL)
   - Provisioning Resources for the Web Application and Connecting App to Database Instance
