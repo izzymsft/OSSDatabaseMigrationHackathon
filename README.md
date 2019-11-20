@@ -12,7 +12,7 @@ A challenged based, hands-on hack to migrate MySQL, MariaDB and PostgreSQL datab
 
 - [**Challenge 1**](./Student/Guides/challenge01.md) - Generating the Data (between 1TB to 32TB) into Blob Store/ADLS
 - [**Challenge 2**](./Student/Guides/challenge02.md) - Loading Generated Data into IaaS OSS Database Instance
-- [**Challenge 3**](./Student/Guides/challenge03.md) - Analyze Source DB Instance and Make Recommendations for Destination Equivalent in Azure DB
+- [**Challenge 3**](./Student/Guides/challenge03.md) - Analyze Source DB Specs and Make Recommendations for Destination Equivalent in Azure DB (Pick the Right Tier/SKU)
 - [**Challenge 4**](./Student/Guides/challenge04.md) - Perform Offline/Online Database Migration from IaaS to Azure DB Equivalent
 - [**Challenge 5**](./Student/Guides/challenge05.md) - Perform Application Cutover (Blue/Green Deployment)
 - [**Challenge 6**](./Student/Guides/challenge06.md) - Perform Validation 
