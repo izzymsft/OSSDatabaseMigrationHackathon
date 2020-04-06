@@ -10,7 +10,7 @@ A challenged based, hands-on hack to migrate MySQL, MariaDB and PostgreSQL datab
   - Database Status Validation
   - Application Status Validation
 
-- [**Challenge 1**](./Student/Guides/challenge01.md) - Generating the Data (between 1TB to 32TB) into Blob Store/ADLS
+- [**Challenge 1**](./Student/Guides/challenge01.md) - Generating the Data (between 500MB to 2TB) into Blob Store/ADLS
 - [**Challenge 2**](./Student/Guides/challenge02.md) - Loading Generated Data into IaaS OSS Database Instance
 - [**Challenge 3**](./Student/Guides/challenge03.md) - Analyze Source DB Specs and Recommend Destination Sizing in Azure DB (Pick the Right Tier/SKU)
   
@@ -20,3 +20,5 @@ A challenged based, hands-on hack to migrate MySQL, MariaDB and PostgreSQL datab
 - [**Challenge 5**](./Student/Guides/challenge05.md) - Perform Application Cutover (Blue/Green Deployment)
 - [**Challenge 6**](./Student/Guides/challenge06.md) - Perform Validation 
 - [**Challenge 7**](./Student/Guides/challenge07.md) - Perform Rollback to Source Database 
+- [**Challenge 8**](./Student/Guides/challenge07.md) - PostgreSQL Hyperscale Dataload (20TB) 
+- [**Challenge 9**](./Student/Guides/challenge07.md) - PostgreSQL Hyperscale Validation (20TB) 
